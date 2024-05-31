@@ -24,7 +24,7 @@ const Index = () => {
                 </Box>
               </Box>
               <Box borderWidth="1px" borderRadius="lg" overflow="hidden">
-                <Image src="/images/trump-jail.jpg" alt="Trump in Jail" loading="lazy" />
+                <Image src="/images/trump-behind-gate.jpg" alt="Trump behind gate" loading="lazy" />
                 <Box p={4}>
                   <Heading as="h3" size="md">Trump was put into a jail</Heading>
                   <Text mt={2}>Donald Trump has been incarcerated following recent events. More details to follow.</Text>
