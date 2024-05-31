@@ -23,6 +23,13 @@ const Index = () => {
                   <Text mt={2}>Brief description of the news article goes here.</Text>
                 </Box>
               </Box>
+              <Box borderWidth="1px" borderRadius="lg" overflow="hidden">
+                <Image src="/images/trump-jail.jpg" alt="Trump in Jail" loading="lazy" />
+                <Box p={4}>
+                  <Heading as="h3" size="md">Trump was put into a jail</Heading>
+                  <Text mt={2}>Donald Trump has been incarcerated following recent events. More details to follow.</Text>
+                </Box>
+              </Box>
             </VStack>
           </Box>
           <Box flex="1" mt={{ base: 4, md: 0 }}>
