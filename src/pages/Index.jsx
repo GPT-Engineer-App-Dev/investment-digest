@@ -10,14 +10,14 @@ const Index = () => {
             <Heading as="h2" size="xl" mb={4}>Top News</Heading>
             <VStack spacing={4} align="stretch">
               <Box borderWidth="1px" borderRadius="lg" overflow="hidden">
-                <Image src="https://via.placeholder.com/800x400" alt="News Image" />
+                <Image src="/images/news1.gif" alt="News Image" />
                 <Box p={4}>
                   <Heading as="h3" size="md">News Headline 1</Heading>
                   <Text mt={2}>Brief description of the news article goes here.</Text>
                 </Box>
               </Box>
               <Box borderWidth="1px" borderRadius="lg" overflow="hidden">
-                <Image src="https://via.placeholder.com/800x400" alt="News Image" />
+                <Image src="/images/news2.gif" alt="News Image" />
                 <Box p={4}>
                   <Heading as="h3" size="md">News Headline 2</Heading>
                   <Text mt={2}>Brief description of the news article goes here.</Text>
